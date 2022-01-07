@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5103659.chunk.css",
+    "main.css": "/static/css/main.8c2e3929.chunk.css",
     "main.js": "/static/js/main.44268167.chunk.js",
     "main.js.map": "/static/js/main.44268167.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.124dcac4.js",
@@ -8,9 +8,9 @@
     "static/js/2.19447ffe.chunk.js": "/static/js/2.19447ffe.chunk.js",
     "static/js/2.19447ffe.chunk.js.map": "/static/js/2.19447ffe.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b2d3c12811d0c74108bfa60584ecc423.js": "/precache-manifest.b2d3c12811d0c74108bfa60584ecc423.js",
+    "precache-manifest.2fdce3f6dfd065d7e00e8acc4a8f43cc.js": "/precache-manifest.2fdce3f6dfd065d7e00e8acc4a8f43cc.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.d5103659.chunk.css.map": "/static/css/main.d5103659.chunk.css.map",
+    "static/css/main.8c2e3929.chunk.css.map": "/static/css/main.8c2e3929.chunk.css.map",
     "static/media/index.css": "/static/media/The-Suavity.b53cea1c.ttf",
     "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.be4f4800.png",
@@ -59,7 +59,7 @@
   "entrypoints": [
     "static/js/runtime-main.124dcac4.js",
     "static/js/2.19447ffe.chunk.js",
-    "static/css/main.d5103659.chunk.css",
+    "static/css/main.8c2e3929.chunk.css",
     "static/js/main.44268167.chunk.js"
   ]
 }
