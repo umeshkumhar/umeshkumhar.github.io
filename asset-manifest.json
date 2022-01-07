@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.1b28ed9f.chunk.css",
-    "main.js": "/static/js/main.89e2dbc8.chunk.js",
-    "main.js.map": "/static/js/main.89e2dbc8.chunk.js.map",
+    "main.js": "/static/js/main.821f1e15.chunk.js",
+    "main.js.map": "/static/js/main.821f1e15.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.124dcac4.js",
     "runtime-main.js.map": "/static/js/runtime-main.124dcac4.js.map",
     "static/js/2.19447ffe.chunk.js": "/static/js/2.19447ffe.chunk.js",
     "static/js/2.19447ffe.chunk.js.map": "/static/js/2.19447ffe.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8cd15d2be3fb5fe284f855833bf84f8b.js": "/precache-manifest.8cd15d2be3fb5fe284f855833bf84f8b.js",
+    "precache-manifest.f204343eb73f135b39a0316626506f8d.js": "/precache-manifest.f204343eb73f135b39a0316626506f8d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.1b28ed9f.chunk.css.map": "/static/css/main.1b28ed9f.chunk.css.map",
     "static/media/index.css": "/static/media/The-Suavity.b53cea1c.ttf",
@@ -47,6 +47,7 @@
     "static/media/programmer.svg": "/static/media/programmer.5faf790b.svg",
     "static/media/projects_image.svg": "/static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "/static/media/pwa.71408db7.png",
+    "static/media/saama_logo.png": "/static/media/saama_logo.5d26500f.png",
     "static/media/stanford_logo.png": "/static/media/stanford_logo.2c497738.png",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.3fa54242.svg",
@@ -59,6 +60,6 @@
     "static/js/runtime-main.124dcac4.js",
     "static/js/2.19447ffe.chunk.js",
     "static/css/main.1b28ed9f.chunk.css",
-    "static/js/main.89e2dbc8.chunk.js"
+    "static/js/main.821f1e15.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51d7fae0512ea3b440e6efc2b0f8738d",
+    "revision": "9f0905566aeaf07e3baf57f53d031815",
     "url": "/index.html"
   },
   {
-    "revision": "a347b88dd30833bfcff9",
+    "revision": "839c1b878ce0ecdc349b",
     "url": "/static/css/main.1b28ed9f.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.19447ffe.chunk.js"
   },
   {
-    "revision": "a347b88dd30833bfcff9",
-    "url": "/static/js/main.89e2dbc8.chunk.js"
+    "revision": "839c1b878ce0ecdc349b",
+    "url": "/static/js/main.821f1e15.chunk.js"
   },
   {
     "revision": "4578451808fb66dbbeb9",
@@ -250,6 +250,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "71408db71465afd742233e4a96f06526",
     "url": "/static/media/pwa.71408db7.png"
+  },
+  {
+    "revision": "5d26500ffb878ddbbdbe6ac153b3c37c",
+    "url": "/static/media/saama_logo.5d26500f.png"
   },
   {
     "revision": "2c497738be3831492aeb6bdc43f19154",
