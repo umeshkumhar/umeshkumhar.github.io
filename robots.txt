@@ -1,2 +1,3 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
+Disallow: 
+Sitemap: https://umesh.pro/sitemap.xml
